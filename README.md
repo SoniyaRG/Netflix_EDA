@@ -44,4 +44,27 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 * There are total 4993 unique directors who have directed movies/tv shows on netflix.
 * "Rajiv Chilaka" , "Jan Suter" , "Raul Campos" are the **top 3 directors** who directed most movies and tv shows on netflix.
 
-**Recommendations**
+**Recommendations** <br>
+**1. Content Acquisition Strategy**  <br>
+**A. Focus on Peak Months:**  <br>
+Movies : Since most movies are added in July, April, and December, consider planning marketing and             **promotional campaigns** around these months to maximize visibility and engagement. <br>
+TV Shows : With TV shows being added in December, July, and September, align your content release                 schedule to leverage these peak months effectively. <br>
+**B.Genre and Duration Preferences:** <br>
+Movies : Focus on acquiring movies within the **50-150 minute** duration range, as these are the most           popular among users. <br>
+TV Shows : Ensure a diverse range of shows with **1-3 seasons** to match the preferences of viewers. <br>
+
+**2. Geographic and Production Trends** <br>
+**A. Country-Specific Content:** <br>
+**US** : With the US producing 35% of Netflix's content, tailor content marketing strategies and       
+    partnerships to target American audiences more effectively.<br>
+**India** : Explore opportunities for producing or acquiring more international movies, dramas, and   
+      comedies,as these genres are popular in India.<br>
+**UK** : Emphasize British shows in content strategies to cater to UK viewers' preferences.<br>
+
+**3. Content Rating and Viewer Preferences** <br>
+**A. Adapt Content Strategy:** <br>
+Regularly review content ratings and adapt the strategy based on changes in viewer preferences and regional trends. <br>
+
+**4. Director and Talent Management** <br>
+**A. Leverage Top Directors:** <br>
+**Collaborate** with top directors like Rajiv Chilaka, Jan Suter, and Raul Campos to maximize the appeal of your content. <br>
